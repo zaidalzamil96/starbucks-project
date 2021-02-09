@@ -58,7 +58,7 @@ During the  offer's time
 
 ## In terms of age groups:
 
-![age_group_analysis](age_group_ana.lysispng)
+![age_group_analysis](age_group_analysis.png)
 
 ## Changes in revenue:
 
